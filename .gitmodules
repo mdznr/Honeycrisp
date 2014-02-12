@@ -1,0 +1,15 @@
+[submodule "NetworkActivityIndicator"]
+	path = NetworkActivityIndicator
+	url = git://github.com/mdznr/NetworkActivityIndicator.git
+[submodule "Handedness"]
+	path = Handedness
+	url = git://github.com/mdznr/Handedness.git
+[submodule "Rewritten-APIs"]
+	path = Rewritten-APIs
+	url = git://github.com/mdznr/Rewritten-APIs.git
+[submodule "Colors"]
+	path = Colors
+	url = git://github.com/mdznr/Colors.git
+[submodule "PushBackControl"]
+	path = PushBackControl
+	url = git://github.com/mdznr/PushBackControl.git
