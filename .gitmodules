@@ -13,3 +13,6 @@
 [submodule "PushBackControl"]
 	path = PushBackControl
 	url = git://github.com/mdznr/PushBackControl.git
+[submodule "MotionUIControls"]
+	path = MotionUIControls
+	url = git://github.com/mdznr/MotionUIControls.git
