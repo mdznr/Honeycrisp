@@ -16,3 +16,6 @@
 [submodule "MotionUIControls"]
 	path = MotionUIControls
 	url = git://github.com/mdznr/MotionUIControls.git
+[submodule "Contextual-Vibration-Amplification"]
+	path = Contextual-Vibration-Amplification
+	url = https://github.com/mdznr/Contextual-Vibration-Amplification.git
