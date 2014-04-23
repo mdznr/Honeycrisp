@@ -19,3 +19,6 @@
 [submodule "Contextual-Vibration-Amplification"]
 	path = Contextual-Vibration-Amplification
 	url = https://github.com/mdznr/Contextual-Vibration-Amplification.git
+[submodule "SmartCrop"]
+	path = SmartCrop
+	url = https://github.com/mdznr/SmartCrop.git
